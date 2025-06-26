@@ -1,0 +1,16 @@
+{
+  "name": "Meta-Forge_0xEixa",
+  "description": "Bucket AI ini adalah ruang eksplorasi metadata, agen terdesentralisasi, dan graf terhubung. Dikurasi oleh 0xEixa dan berjalan secara otonom.",
+  "created_by": "0xEixa",
+  "image": "ipfs://{CID}/0.jpg",
+  "external_url": "https://portal.recall.network/buckets",
+  "tags": ["AI", "Recall", "0xEixa", "Agent", "IPFS"],
+  "category": "AI Agents",
+  "visibility": "public",
+  "attributes": [
+    { "trait_type": "Curator", "value": "0xEixa" },
+    { "trait_type": "Agent Script", "value": "0.js" },
+    { "trait_type": "Type", "value": "Autonomous Bucket" },
+    { "trait_type": "Version", "value": "v1.0" }
+  ]
+}
